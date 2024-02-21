@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pj_dashboard/static/css/main.79f5436f.css",
+    "main.js": "/pj_dashboard/static/js/main.7063f2bd.js",
+    "index.html": "/pj_dashboard/index.html",
+    "main.79f5436f.css.map": "/pj_dashboard/static/css/main.79f5436f.css.map",
+    "main.7063f2bd.js.map": "/pj_dashboard/static/js/main.7063f2bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79f5436f.css",
+    "static/js/main.7063f2bd.js"
+  ]
+}
